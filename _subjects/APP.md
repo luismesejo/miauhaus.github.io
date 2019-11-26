@@ -2,14 +2,14 @@
 layout: subject
 title: Advanced Parametrization of Prototypes
 course: miau
-code: A05
+code: APP
 description: Advanced Visual Programming of reactive and adaptive parametric projects designing the behavior of their architectural elements between them and in relation to the context and their interpretation
 thumbnail: https://farm5.staticflickr.com/4823/46281752784_0beaacd8af_b.jpg
 author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.05 Advanced Parametrization of Prototypes
+## APP Advanced Parametrization of Prototypes
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:

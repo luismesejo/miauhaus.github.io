@@ -2,14 +2,14 @@
 layout: subject
 title: Advanced WorkFlows
 course: miau
-code: A01
+code: WF
 description: Big Datasets. Resources on urban datasets. Tools for the analisys and design in complex data environments. GiS and Territory
 thumbnail: https://farm5.staticflickr.com/4844/32054074797_53d7ded9cb_b.jpg
 author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.01 Advanced Workflows
+## WF Advanced Workflows
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:

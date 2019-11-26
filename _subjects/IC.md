@@ -1,15 +1,15 @@
 ---
 layout: subject
-title: Advanced Image Composition
+title: Image Compositing
 course: miau
-code: A07
+code: IC
 description: Specialization on digital postproduction and narratives. Exacerbate the digital tool
 thumbnail: https://farm8.staticflickr.com/7838/46986883551_d6fb083696_o_d.jpg
 author: miauhaus
 language: en
 date: 2019-02-04 00:00
 ---
-## a.07 Advanced image composition
+## IC Image Compositing
 Number of Sessions/Duration 2 (5 hours)
 
 ### Seminar’s description:

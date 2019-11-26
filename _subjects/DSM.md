@@ -2,14 +2,14 @@
 layout: subject
 title: Disciplinary Simulations
 course: miau
-code: A04
+code: DSM
 description: Generation of subsystems integrating the project based on disciplines (structural, bioclimatic, infrastructural...) in such a way as to produce simulations of the prototypes modeled, as well as their programmatic and geometric optimization for such objectives. The result is the elaboration of calculation documents and decision making regarding thermodynamic bioclimatic strategies
 thumbnail: https://farm5.staticflickr.com/4912/46949101892_19c61f9797_b.jpg
 author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.04 Disciplinary Simulations
+## DSM Disciplinary Simulations
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:

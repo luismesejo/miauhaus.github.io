@@ -2,14 +2,14 @@
 layout: subject
 title: Multidisciplinary Design Systems
 course: miau
-code: A06
+code: MDS
 description: Dynamic models programmed as a support to transversely cross routines of different disciplines. Understanding the project as an assembly of interrelated sub-elements
 thumbnail: https://farm5.staticflickr.com/4884/33135503338_c5dfd8525d_b.jpg
 author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.06 Multidisciplinary Design Systems
+## MDS Multidisciplinary Design Systems
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:
